@@ -1,0 +1,33 @@
+
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "jp-01",
+      "name": "Japan Server 1",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "location": "Tokyo",
+      "key": "",
+      "enabled": false
+    },
+    {
+      "id": "sg-01",
+      "name": "Singapore Server 1",
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "location": "Singapore",
+      "key": "",
+      "enabled": false
+    },
+    {
+      "id": "us-01",
+      "name": "US Server 1",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "location": "United States",
+      "key": "",
+      "enabled": false
+    }
+  ]
+}
