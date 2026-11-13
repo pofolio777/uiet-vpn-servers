@@ -8,7 +8,7 @@
       "country": "Japan",
       "flag": "🇯🇵",
       "location": "Tokyo",
-      "key": "",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#Tokyo%2C%2013%2C%20Japan",
       "enabled": false
     },
     {
@@ -17,7 +17,7 @@
       "country": "Singapore",
       "flag": "🇸🇬",
       "location": "Singapore",
-      "key": "",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#Singapore%2C%20Singapore",
       "enabled": false
     },
     {
@@ -26,7 +26,7 @@
       "country": "United States",
       "flag": "🇺🇸",
       "location": "United States",
-      "key": "",
+      "key": "ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#Reston%2C%20VA%2C%20United%20States",
       "enabled": false
     }
   ]
