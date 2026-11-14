@@ -1,6 +1,6 @@
 
 {
-  "version": 2,
+  "version": 1,
   "servers": [
     {
       "id": "jp-01",
@@ -8,7 +8,7 @@
       "country": "Japan",
       "flag": "🇯🇵",
       "location": "Tokyo",
-      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#Tokyo%2C%2013%2C%20Japan",
+      "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#Inzai,%2012,%20Japan",
       "enabled": true
     },
     {
@@ -17,7 +17,7 @@
       "country": "Singapore",
       "flag": "🇸🇬",
       "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#Singapore%2C%20Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#Singapore,%20Singapore",
       "enabled": true
     },
     {
@@ -26,7 +26,7 @@
       "country": "United States",
       "flag": "🇺🇸",
       "location": "United States",
-      "key": "ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#Reston%2C%20VA%2C%20United%20States",
+      "key": "ss://YWVzLTEyOC1nY206MDYxOWVjYTM0OTczNjM4NjI5MjcxYmUxN2RiMmYzOTk@146.70.147.90:10814#Miami,%20FL,%20United%20States",
       "enabled": true
     }
   ]
