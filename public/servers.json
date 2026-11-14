@@ -1,6 +1,6 @@
 
 {
-  "version": 1,
+  "version": 2,
   "servers": [
     {
       "id": "jp-01",
@@ -9,15 +9,6 @@
       "flag": "🇯🇵",
       "location": "Tokyo",
       "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#Inzai,%2012,%20Japan",
-      "enabled": true
-    },
-    {
-      "id": "sg-01",
-      "name": "Singapore Server 1",
-      "country": "Singapore",
-      "flag": "🇸🇬",
-      "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#Singapore,%20Singapore",
       "enabled": true
     },
     {
