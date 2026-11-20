@@ -1,23 +1,169 @@
 
+
 {
   "version": 2,
   "servers": [
+    {
+      "id": "us-01",
+      "name": "US Server 1",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "location": "Los Angeles",
+      "key": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#New%20York,%20NY,%20United%20States",
+      "enabled": true
+    },
+     {
+      "id": "us-02",
+      "name": "US Server 2",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "location": "Los Angeles",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@news.bushyjenz.cyou:42878#Santa%20Clara,%20CA,%20United%20States",
+      "enabled": true
+    },
     {
       "id": "jp-01",
       "name": "Japan Server 1",
       "country": "Japan",
       "flag": "🇯🇵",
       "location": "Tokyo",
-      "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#Inzai,%2012,%20Japan",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#Tokyo,%2013,%20Japan",
+      "enabled": true
+    },
+      {
+      "id": "jp-02",
+      "name": "Japan Server 2",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "location": "Tokyo",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#Tokyo,%2013,%20Japan",
+      "enabled": true
+    },
+      {
+      "id": "sg-01",
+      "name": "Singapore Server 1",
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "location": "Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-sg3477.shopingggg.ir:19999#Singapore,%20Singapore",
       "enabled": true
     },
     {
-      "id": "us-01",
-      "name": "US Server 1",
-      "country": "United States",
-      "flag": "🇺🇸",
-      "location": "United States",
-      "key": "ss://YWVzLTEyOC1nY206MDYxOWVjYTM0OTczNjM4NjI5MjcxYmUxN2RiMmYzOTk@146.70.147.90:10814#Miami,%20FL,%20United%20States",
+      "id": "sg-02",
+      "name": "Singapore Server 2",
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "location": "Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#Singapore",
+      "enabled": true
+    },
+ 
+    {
+      "id": "gb-01",
+      "name": "UK Server 1",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "location": "London",
+      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-gb2271.shopingggg.ir:443#Manchester,%20ENG,%20United%20Kingdom",
+      "enabled": true
+    },
+       {
+      "id": "gb-02",
+      "name": "UK Server 2",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "location": "London",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999#London,%20ENG,%20United%20Kingdom",
+      "enabled": true
+    },
+       {
+      "id": "gb-03",
+      "name": "UK Server 3",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "location": "London",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#City%20of%20London,%20ENG,%20United%20Kingdom",
+      "enabled": true
+    },
+    {
+      "id": "de-01",
+      "name": "Germany Server 1",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "location": "Frankfurt",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MUR4Q0hUSkJLb1ZxbFFjSHJMN2VKbFlESi9kWDdNaVMydHJUa21oK2dvPQ@e5.cover20.ir:31973#Frankfurt%20am%20Main,%20HE,%20Germany",
+      "enabled": true
+    },
+     {
+      "id": "de-02",
+      "name": "Germany Server 2",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "location": "Frankfurt",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-de3729.shopingggg.ir:19999#Frankfurt%20am%20Main,%20HE,%20Germany",
+      "enabled": true
+    },
+     {
+      "id": "de-03",
+      "name": "Germany Server 3",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "location": "Frankfurt",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#Frankfurt%20am%20Main,%20HE,%20Germany",
+      "enabled": true
+    },
+    {
+      "id": "nl-01",
+      "name": "Netherlands Server 1",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "location": "Amsterdam",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVkRjNzl5Q2pES1R4RWZLV21ONUdR@185.125.100.214:1080#Amsterdam,%20NH,%20The%20Netherlands",
+      "enabled": true
+    },
+    {
+      "id": "nl-02",
+      "name": "Netherlands Server 2",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "location": "Amsterdam",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#The%20Netherlands",
+      "enabled": true
+    },
+    {
+      "id": "nl-03",
+      "name": "Netherlands Server 3",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "location": "Amsterdam",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#The%20Netherlands",
+      "enabled": true
+    },
+    {
+      "id": "au-01",
+      "name": "Australia Server 1",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "location": "Sydney",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dVcwNEg2VHExMFp3N1pWT1VnNmox@89.58.16.116:2342#Vienna,%209,%20Austria",
+      "enabled": true
+    },
+    {
+      "id": "au-02",
+      "name": "Australia Server 2",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "location": "Sydney",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#Vienna,%209,%20Austria",
+      "enabled": true
+    },
+    {
+      "id": "au-03",
+      "name": "Australia Server 3",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "location": "Sydney",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#Vienna,%209,%20Austria",
       "enabled": true
     }
   ]
