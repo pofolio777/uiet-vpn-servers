@@ -46,7 +46,7 @@
       "country": "Singapore",
       "flag": "🇸🇬",
       "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#Singapore,%20Singapore",
       "enabled": true
     },
     {
@@ -55,7 +55,7 @@
       "country": "Singapore",
       "flag": "🇸🇬",
       "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#Singapore,%20Singapore",
       "enabled": true
     },
  
@@ -98,15 +98,6 @@
      {
       "id": "de-02",
       "name": "Germany Server 2",
-      "country": "Germany",
-      "flag": "🇩🇪",
-      "location": "Frankfurt",
-      "key": "",
-      "enabled": true
-    },
-     {
-      "id": "de-03",
-      "name": "Germany Server 3",
       "country": "Germany",
       "flag": "🇩🇪",
       "location": "Frankfurt",
