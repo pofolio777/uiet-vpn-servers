@@ -40,25 +40,6 @@
       "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#Inzai,%2012,%20Japan",
       "enabled": true
     },
-      {
-      "id": "sg-01",
-      "name": "Singapore Server 1",
-      "country": "Singapore",
-      "flag": "🇸🇬",
-      "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#Singapore,%20Singapore",
-      "enabled": true
-    },
-    {
-      "id": "sg-02",
-      "name": "Singapore Server 2",
-      "country": "Singapore",
-      "flag": "🇸🇬",
-      "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#Singapore,%20Singapore",
-      "enabled": true
-    },
- 
     {
       "id": "gb-01",
       "name": "UK Server 1",
@@ -95,15 +76,6 @@
       "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MUR4Q0hUSkJLb1ZxbFFjSHJMN2VKbFlESi9kWDdNaVMydHJUa21oK2dvPQ@e5.cover20.ir:31973#Frankfurt%20am%20Main,%20HE,%20Germany",
       "enabled": true
     },
-     {
-      "id": "de-02",
-      "name": "Germany Server 2",
-      "country": "Germany",
-      "flag": "🇩🇪",
-      "location": "Frankfurt",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.83:19999#Frankfurt%20am%20Main,%20HE,%20Germany",
-      "enabled": true
-    },
     {
       "id": "nl-01",
       "name": "Netherlands Server 1",
@@ -111,24 +83,6 @@
       "flag": "🇳🇱",
       "location": "Amsterdam",
       "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVkRjNzl5Q2pES1R4RWZLV21ONUdR@185.125.100.214:1080#Amsterdam,%20NH,%20The%20Netherlands",
-      "enabled": true
-    },
-    {
-      "id": "nl-02",
-      "name": "Netherlands Server 2",
-      "country": "Netherlands",
-      "flag": "🇳🇱",
-      "location": "Amsterdam",
-      "key": "",
-      "enabled": true
-    },
-    {
-      "id": "nl-03",
-      "name": "Netherlands Server 3",
-      "country": "Netherlands",
-      "flag": "🇳🇱",
-      "location": "Amsterdam",
-      "key": "",
       "enabled": true
     },
     {
