@@ -1,7 +1,7 @@
 
 
 {
-  "version": 2,
+  "version": 1,
   "servers": [
     {
       "id": "us-01",
@@ -21,13 +21,14 @@
       "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZDRHOXhuN0FnVDg4bXNDWUM5TVpmYXZNVXFkM2RXRk5BdnN3aTZLZmFEOVljZXhwdE1iUG40Y1NFQ0VNekRndkFNb21BV0pIeXdlcUplcjk5c3NNVllHSDZUSzhrNGM@216.172.144.199:40643#United%20States",
       "enabled": true
     },
+    
     {
       "id": "jp-01",
       "name": "Japan Server 1",
       "country": "Japan",
       "flag": "🇯🇵",
       "location": "Tokyo",
-      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#Tokyo,%2013,%20Japan",
+      "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#Inzai,%2012,%20Japan",
       "enabled": true
     },
       {
@@ -36,7 +37,7 @@
       "country": "Japan",
       "flag": "🇯🇵",
       "location": "Tokyo",
-      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#Tokyo,%2013,%20Japan",
+      "key": "ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#Inzai,%2012,%20Japan",
       "enabled": true
     },
       {
@@ -54,7 +55,7 @@
       "country": "Singapore",
       "flag": "🇸🇬",
       "location": "Singapore",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#Singapore",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#Singapore,%20Singapore",
       "enabled": true
     },
  
@@ -64,7 +65,7 @@
       "country": "United Kingdom",
       "flag": "🇬🇧",
       "location": "London",
-      "key": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-gb2271.shopingggg.ir:443#Manchester,%20ENG,%20United%20Kingdom",
+      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999#City%20of%20London,%20ENG,%20United%20Kingdom",
       "enabled": true
     },
        {
@@ -100,7 +101,7 @@
       "country": "Germany",
       "flag": "🇩🇪",
       "location": "Frankfurt",
-      "key": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-de3729.shopingggg.ir:19999#Frankfurt%20am%20Main,%20HE,%20Germany",
+      "key": "",
       "enabled": true
     },
      {
@@ -127,7 +128,7 @@
       "country": "Netherlands",
       "flag": "🇳🇱",
       "location": "Amsterdam",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#The%20Netherlands",
+      "key": "",
       "enabled": true
     },
     {
@@ -136,7 +137,7 @@
       "country": "Netherlands",
       "flag": "🇳🇱",
       "location": "Amsterdam",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#The%20Netherlands",
+      "key": "",
       "enabled": true
     },
     {
