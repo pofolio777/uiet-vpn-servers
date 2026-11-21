@@ -77,24 +77,6 @@
       "enabled": true
     },
     {
-      "id": "nl-01",
-      "name": "Netherlands Server 1",
-      "country": "Netherlands",
-      "flag": "🇳🇱",
-      "location": "Amsterdam",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVkRjNzl5Q2pES1R4RWZLV21ONUdR@185.125.100.214:1080#Amsterdam,%20NH,%20The%20Netherlands",
-      "enabled": true
-    },
-    {
-      "id": "au-01",
-      "name": "Australia Server 1",
-      "country": "Australia",
-      "flag": "🇦🇺",
-      "location": "Sydney",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dVcwNEg2VHExMFp3N1pWT1VnNmox@89.58.16.116:2342#Vienna,%209,%20Austria",
-      "enabled": true
-    },
-    {
       "id": "au-02",
       "name": "Australia Server 2",
       "country": "Australia",
