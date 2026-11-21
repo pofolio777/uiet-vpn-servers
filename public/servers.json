@@ -68,15 +68,6 @@
       "enabled": true
     },
     {
-      "id": "de-01",
-      "name": "Germany Server 1",
-      "country": "Germany",
-      "flag": "🇩🇪",
-      "location": "Frankfurt",
-      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MUR4Q0hUSkJLb1ZxbFFjSHJMN2VKbFlESi9kWDdNaVMydHJUa21oK2dvPQ@e5.cover20.ir:31973#Frankfurt%20am%20Main,%20HE,%20Germany",
-      "enabled": true
-    },
-    {
       "id": "au-02",
       "name": "Australia Server 2",
       "country": "Australia",
